@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seifeddine-abdelkader-157687215/" style="margin-right: 15px;">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/seifeddine-abdelkader-157687215/" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30"/>
   </a>
-  <a href="https://www.fiverr.com/users/fun0st" style="margin-right: 15px;">
-    <img src="https://img.icons8.com/material-outlined/30/D69254/fiverr.png"/>
+  <a href="https://www.fiverr.com/users/fun0st" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/fiverr/fiverr-icon.svg" width="35"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~01af48bd7df2e56253" style="margin-right: 15px;">
+  <a href="https://www.upwork.com/freelancers/~01af48bd7df2e56253">
     <img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" width="30" height="30"/>
   </a>
 </p>
