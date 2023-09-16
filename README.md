@@ -16,7 +16,7 @@
     <img src="https://img.icons8.com/material-outlined/30/D69254/fiverr.png"/> <!-- You might need to find a suitable Fiverr icon if this one isn't accurate -->
   </a>
   <a href="https://www.upwork.com/freelancers/~01af48bd7df2e56253">
-    <img src="https://icons8.com/icon/HKdmFbFm7xQV/upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely.png"/> <!-- You might need to find a suitable Upwork icon if this one isn't accurate -->
+    <img src="https://icons8.com/icon/HKdmFbFm7xQV/upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely"/> <!-- You might need to find a suitable Upwork icon if this one isn't accurate -->
   </a>
 </p>
 
