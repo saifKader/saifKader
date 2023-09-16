@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Dive into my repositories, and let's embark on a collaborative journey!</i>
+  <b>Dive into my repositories, and let's embark on a collaborative journey!</b>
 </p>
 
 <p align="center">
